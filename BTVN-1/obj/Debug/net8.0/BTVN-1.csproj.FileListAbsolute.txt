@@ -1,0 +1,14 @@
+C:\Users\Le Ha\RiderProjects\BTVN-1\bin\Debug\net8.0\BTVN-1.exe
+C:\Users\Le Ha\RiderProjects\BTVN-1\bin\Debug\net8.0\BTVN-1.deps.json
+C:\Users\Le Ha\RiderProjects\BTVN-1\bin\Debug\net8.0\BTVN-1.runtimeconfig.json
+C:\Users\Le Ha\RiderProjects\BTVN-1\bin\Debug\net8.0\BTVN-1.dll
+C:\Users\Le Ha\RiderProjects\BTVN-1\bin\Debug\net8.0\BTVN-1.pdb
+C:\Users\Le Ha\RiderProjects\BTVN-1\obj\Debug\net8.0\BTVN-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Ha\RiderProjects\BTVN-1\obj\Debug\net8.0\BTVN-1.AssemblyInfoInputs.cache
+C:\Users\Le Ha\RiderProjects\BTVN-1\obj\Debug\net8.0\BTVN-1.AssemblyInfo.cs
+C:\Users\Le Ha\RiderProjects\BTVN-1\obj\Debug\net8.0\BTVN-1.csproj.CoreCompileInputs.cache
+C:\Users\Le Ha\RiderProjects\BTVN-1\obj\Debug\net8.0\BTVN-1.dll
+C:\Users\Le Ha\RiderProjects\BTVN-1\obj\Debug\net8.0\refint\BTVN-1.dll
+C:\Users\Le Ha\RiderProjects\BTVN-1\obj\Debug\net8.0\BTVN-1.pdb
+C:\Users\Le Ha\RiderProjects\BTVN-1\obj\Debug\net8.0\BTVN-1.genruntimeconfig.cache
+C:\Users\Le Ha\RiderProjects\BTVN-1\obj\Debug\net8.0\ref\BTVN-1.dll

@@ -1,0 +1,15 @@
+C:\Users\Le Ha\RiderProjects\bai1b\bin\Debug\net8.0\bai1b.exe
+C:\Users\Le Ha\RiderProjects\bai1b\bin\Debug\net8.0\bai1b.deps.json
+C:\Users\Le Ha\RiderProjects\bai1b\bin\Debug\net8.0\bai1b.runtimeconfig.json
+C:\Users\Le Ha\RiderProjects\bai1b\bin\Debug\net8.0\bai1b.dll
+C:\Users\Le Ha\RiderProjects\bai1b\bin\Debug\net8.0\bai1b.pdb
+C:\Users\Le Ha\RiderProjects\bai1b\obj\Debug\net8.0\bai1b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Ha\RiderProjects\bai1b\obj\Debug\net8.0\bai1b.AssemblyInfoInputs.cache
+C:\Users\Le Ha\RiderProjects\bai1b\obj\Debug\net8.0\bai1b.AssemblyInfo.cs
+C:\Users\Le Ha\RiderProjects\bai1b\obj\Debug\net8.0\bai1b.csproj.CoreCompileInputs.cache
+C:\Users\Le Ha\RiderProjects\bai1b\obj\Debug\net8.0\bai1b.dll
+C:\Users\Le Ha\RiderProjects\bai1b\obj\Debug\net8.0\refint\bai1b.dll
+C:\Users\Le Ha\RiderProjects\bai1b\obj\Debug\net8.0\bai1b.pdb
+C:\Users\Le Ha\RiderProjects\bai1b\obj\Debug\net8.0\bai1b.genruntimeconfig.cache
+C:\Users\Le Ha\RiderProjects\bai1b\obj\Debug\net8.0\ref\bai1b.dll
+C:\Users\Le Ha\RiderProjects\bai1b\obj\Debug\net8.0\bai1b.sourcelink.json
